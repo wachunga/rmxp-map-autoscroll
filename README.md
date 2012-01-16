@@ -1,8 +1,6 @@
 Map Autoscroll (v 1.02)
 ===
 
-A script for [RPG Maker XP](http://en.wikipedia.org/wiki/RPG_Maker_XP), which uses Ruby. Written years ago and posted on some now-defunct forums, but may still be useful to folks.
-
 This script supplements the built-in "Scroll Map" event command with the aim of simplifying cutscenes (and map scrolling in general). Whereas the normal event command requires a direction and number of tiles to scroll, Map Autoscroll scrolls the map to center on the tile whose x and y coordinates are given, even scrolling diagonally when appropriate, which is not possible otherwise.
 
 Features
